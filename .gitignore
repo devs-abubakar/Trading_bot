@@ -1,0 +1,11 @@
+# Python environment
+__pycache__/
+*.py[cod]
+
+# Bot State & Data (Privacy)
+state.json
+Crypto_history.db
+trade_history.csv
+
+# Environment variables
+.env
